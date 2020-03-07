@@ -97,7 +97,7 @@ address = {street = "1 Zhanlanguan Street", city = "Beijing", region = "", postc
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = "Email for appointment" # ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -110,10 +110,10 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.com/citations?user=ITO6Rn8AAAAJ"},
-  {icon = "orcid", icon_pack = "ai", name = "orcid", link = "https://orcid.org/0000-0002-1270-5353"},
-  {icon = "publons", icon_pack = "ai", name = "publons", link = "https://publons.com/researcher/1518508/changfeng-jing/"},
-  {icon = "researchgate", icon_pack = "ai", name = "researchgate", link = "https://www.researchgate.net/profile/Changfeng_Jing"},
+  # {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.com/citations?user=ITO6Rn8AAAAJ"},
+  # {icon = "orcid", icon_pack = "ai", name = "orcid", link = "https://orcid.org/0000-0002-1270-5353"},
+  # {icon = "publons", icon_pack = "ai", name = "publons", link = "https://publons.com/researcher/1518508/changfeng-jing/"},
+  # {icon = "researchgate", icon_pack = "ai", name = "researchgate", link = "https://www.researchgate.net/profile/Changfeng_Jing"},
   ]
 
 ############################
