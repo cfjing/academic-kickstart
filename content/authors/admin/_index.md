@@ -14,8 +14,7 @@ role: Professor of GIScience
 
 # Organizations/Affiliations
 organizations:
-- name: Beijing University of Civil Engineering and Architecture (BUCEA), 
-- School of Geomatics and Urban Spatial Informatics 
+- name: Beijing University of Civil Engineering and Architecture (BUCEA), \n School of Geomatics and Urban Spatial Informatics 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
