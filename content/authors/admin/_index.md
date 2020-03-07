@@ -14,14 +14,15 @@ role: Professor of GIScience
 
 # Organizations/Affiliations
 organizations:
-- name: Beijing University of Civil Engineering and Architecture (BUCEA), School of Geomatics and Urban Spatial Informatics 
+- name: Beijing University of Civil Engineering and Architecture (BUCEA), 
+- School of Geomatics and Urban Spatial Informatics 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include GIScience, Urban Informatics & Computing and programmable matter.
 
 interests:
-- Urban Informatics & Computing
+- Urban Informatics
 - Urban Science
 - GIScience & Geodata Science
 - City and Built Environment
@@ -79,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-Dr. Changfeng Jing is a Professor of Geomatics Science in the School of Geomatics and Urban Spatial Informatics at Beijing University of Civil Engineering and Architecture (BUCEA) since 2008. He has been working on geocollaboration, spatiotemporal dynamics, Geo-IoT, built environment inspection and evaluation. His research focuses on methods and applications of GIScience, urban informatics, spatiotemporal modeling with geocomputing methods and Geo-IoT. He is interested in applying geoscience methods and geomatics data into built environment or urban space for understanding sustainable urban system.
+Dr. Changfeng Jing (靖常峰) is a Professor of Geomatics Science in the School of Geomatics and Urban Spatial Informatics at Beijing University of Civil Engineering and Architecture (BUCEA) since 2008. He has been working on geocollaboration, spatiotemporal dynamics, Geo-IoT, built environment inspection and evaluation. His research focuses on methods and applications of GIScience, urban informatics, spatiotemporal modeling with geocomputing methods and Geo-IoT. He is interested in applying geoscience methods and geomatics data into built environment or urban space for understanding sustainable urban system.
