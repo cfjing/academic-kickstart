@@ -1,0 +1,1 @@
+from the \academic-kickstart\content\home
